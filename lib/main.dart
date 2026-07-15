@@ -4,7 +4,7 @@ import 'package:webview_flutter/webview_flutter.dart';
 void main() => runApp(const LiteFApp());
 
 // ✅ Alamat Frenzo yang benar
-const String linkSitus = 'https://shortcut.webze.eu.org/';
+const String linkSitus = 'https://tikotok.webze.eu.org/';
 
 class LiteFApp extends StatelessWidget {
   const LiteFApp({super.key});
